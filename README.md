@@ -1,5 +1,5 @@
 # Circle API Postman Collections
-This repository contains all collections that Circle provides within the [Postman Circle Workspace](https://www.postman.com/circle-solutions/workspace/circle-developers/overview). This includes a collection for General, Core, Payments, Payouts, and Accounts API. Within each of these collections are folders that are organized 1 to 1 with how we organize our [API References](https://developers.circle.com/reference/). 
+This repository contains all collections that Circle provides within the [Postman Circle Workspace](https://www.postman.com/circle-solutions/workspace/circle-developers/overview). This includes a collection for General, Core, Payments, Payouts, and Accounts API. Within each of these collections are folders that are organized one to one with how we organize our [API References](https://developers.circle.com/reference/). 
 
 ## Prerequisites
 [Postman](https://www.getpostman.com/downloads/)
